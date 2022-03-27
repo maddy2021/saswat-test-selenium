@@ -1,11 +1,6 @@
 from datetime import datetime
 import json
-from lib2to3.pgen2 import driver
-from locale import currency
 import os
-from statistics import mode
-from telnetlib import STATUS
-import webbrowser
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from abt_items import AbtItems

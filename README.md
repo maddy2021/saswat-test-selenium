@@ -1,13 +1,13 @@
 # saswat-test-selenium
 
-Pre-requisite:
+## Pre-requisite:
 1. Python3 - make sure you have python verision above 3
 2. chrome browser compatible Selenium webdriver 
     -> put that webdriver(chromedriver.exe file for windows) in driver folder
     (You can find driver folder inside the coding-test directory)
 
 
-To run the code,
+## To Run The Code,
 1. Check you have python installed
 2. pip install -r requirements.txt
 3. cd coding_test => make sure you are in coding_test directory
@@ -19,7 +19,7 @@ output will be stored in output folder in example.json -> file location: output/
 output can be seen in console also.
 
 
-Assumptions:
+## Assumptions:
 1. For now taking just 1st paragraph of description
 2. Status of request is 200: sucess for this assignment, but we can add more regarding 404 or 500 error code
 -> for our code only handeled one is 200

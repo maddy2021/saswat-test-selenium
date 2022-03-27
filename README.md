@@ -1,7 +1,7 @@
 # saswat-test-selenium
 
 ## Pre-requisite:
-1. Python3 - make sure you have python verision above 3
+1. Python3 - make sure you have python version above 3
 2. chrome browser compatible Selenium webdriver 
     -> put that webdriver(chromedriver.exe file for windows) in driver folder
     (You can find driver folder inside the coding-test directory)

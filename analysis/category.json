@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "listItem",
+                "position": 1,
+                "item": {
+                    "name": "Home",
+                    "@id": "https://www.abt.com/"
+                }
+            },
+            {
+                "@type": "listItem",
+                "position": 2,
+                "item": {
+                    "name": "TVs & Electronics",
+                    "@id": "https://www.abt.com/TVs-Electronics/c/5.html"
+                }
+            },
+            {
+                "@type": "listItem",
+                "position": 3,
+                "item": {
+                    "name": "Phones",
+                    "@id": "https://www.abt.com/Phones/c/9.html"
+                }
+            },
+            {
+                "@type": "listItem",
+                "position": 4,
+                "item": {
+                    "name": "Cell Phones",
+                    "@id": "https://www.abt.com/Cell-Phones/c/1228.html"
+                }
+            },
+            {
+                "@type": "listItem",
+                "position": 5,
+                "item": {
+                    "name": "Apple ML9G3LL/A & 6168D",
+                    "@id": "https://www.abt.com/Apple-256GB-Starlight-iPhone-13-Cellular-Phone-ML9G3LLA6168D/p/168484.html"
+                }
+            }
+        ]
+    }
+}

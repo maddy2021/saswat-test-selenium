@@ -1,0 +1,52 @@
+{
+    "lang": "en-us",
+    "brand": "Apple",
+    "title": "Apple 128GB Starlight iPhone 13 Cellular Phone - ML953LL/A & 6163D",
+    "asin": "194252704646",
+    "buybox_message": "In Stock",
+    "categories": [
+        "Home",
+        "TVs & Electronics",
+        "Phones",
+        "Cell Phones",
+        "Apple ML953LL/A & 6163D"
+    ],
+    "image_url": "https://content.abt.com/image.php/Apple-128GB-White-iPhone-13-Cellular-Phone-IPHONE13WH-128GB-main.jpg?image=/images/products/BDP_Images/Apple-128GB-White-iPhone-13-Cellular-Phone-IPHONE13WH-128GB-main.jpg&canvas=1&min_w=600&min_h=400",
+    "image_urls": [
+        "https://www.abt.com/videos/3596/Introducing-iPhone-13-Apple",
+        "//content.abt.com/image.php/Apple-128GB-White-iPhone-13-Cellular-Phone-IPHONE13WH-128GB-main.jpg?image=/images/products/BDP_Images/Apple-128GB-White-iPhone-13-Cellular-Phone-IPHONE13WH-128GB-main.jpg&canvas=1&min_w=600&min_h=400"
+    ],
+    "model": "IPHONE13WH-128GB",
+    "reseller_id": "194252704646",
+    "sku": "194252704646",
+    "site": "https://www.abt.com/",
+    "upc": "194252704646",
+    "site_product_id": "IPHONE13WH-128GB",
+    "short_description": "Move over, white and silver. The newest",
+    "buyer_ratings": "5 out of 5 stars",
+    "variants": [
+        "128GB",
+        "$799.99",
+        "256GB",
+        "$899.99",
+        "512GB",
+        "$1,099.99"
+    ],
+    "price_amount": "799.99",
+    "now_price": "799.99",
+    "price_currency": "USD",
+    "buyer_reviews": [
+        {
+            "1 star": "0",
+            "2 star": "0",
+            "3 star": "0",
+            "4 star": "0",
+            "5 star": "1",
+            "Out of 5": "5.0"
+        }
+    ],
+    "url": "https://www.abt.com/Apple-128GB-Starlight-iPhone-13-Cellular-Phone-ML953LLA6163D/p/168479.html",
+    "status": 200,
+    "redirected": "",
+    "crawled_at": "2022-03-22T15:51:33.025407"
+}

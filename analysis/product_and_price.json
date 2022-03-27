@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "manufacturer": {
+        "name": "Apple"
+    },
+    "url": "https://www.abt.com/Apple-128GB-Starlight-iPhone-13-Cellular-Phone-ML953LLA6163D/p/168479.html",
+    "brand": {
+        "@type": "Brand",
+        "name": "Apple"
+    },
+    "model": "ML953LL/A & 6163D",
+    "image": "https://content.abt.com/media/images/products/l-IPHONE13WH-128GB.jpg",
+    "productID": "upc:194252704646",
+    "description": "128 GB Capacity. 6.1-inch Super Retina XDR Display. iOS 15 Operating System. 2532-by-1170-Pixel Resolution At 460 ppi. 2,000,000:1 Contrast Ratio (Typical). ",
+    "sku": "ML953LLA & 6163D",
+    "mpn": "ML953LL/A & 6163D",
+    "name": "Apple 128GB Starlight iPhone 13 Cellular Phone - ML953LL/A & 6163D",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "reviewCount": 1,
+        "bestRating": 5,
+        "worstRating": 1
+    },
+    "offers": {
+        "@type": "Offer",
+        "seller": {
+            "@type": "Organization",
+            "name": "Abt Electronics",
+            "url": "https://www.abt.com/",
+            "logo": "https://content.abt.com/media/images/abt_logo.svg",
+            "image": "https://content.abt.com/media/images/abt_logo.svg",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "customer support",
+                "telephone": "1 847 544 2207",
+                "email": "customerservice@abt.com"
+            },
+            "sameAs": [
+                "https://www.instagram.com/abtelectronics/",
+                "https://www.facebook.com/abtelectronics",
+                "https://www.youtube.com/abtelectronics",
+                "https://twitter.com/abtelectronics",
+                "https://www.pinterest.com/abtelectronics/",
+                "https://www.linkedin.com/company/abt-electronics",
+                "https://blog.abt.com/",
+                "https://en.wikipedia.org/wiki/Abt_Electronics"
+            ],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1200 N. Milwaukee Avenue",
+                "postalCode": "60025",
+                "addressCountry": "US",
+                "addressLocality": "Glenview, IL",
+                "addressRegion": "IL",
+                "telephone": "1 847 967 8830",
+                "faxNumber": "1 847 544 2270",
+                "email": "customerservice@abt.com"
+            }
+        },
+        "price": "799.99",
+        "priceCurrency": "USD",
+        "availability": "InStoreOnly",
+        "itemCondition": "NewCondition",
+        "url": "https://www.abt.com/Apple-128GB-Starlight-iPhone-13-Cellular-Phone-ML953LLA6163D/p/168479.html"
+    },
+    "color": "Starlight"
+}

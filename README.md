@@ -12,7 +12,7 @@ To run the code,
 2. pip install -r requirements.txt
 3. cd coding_test => make sure you are in coding_test directory
 4. python scraper.py [url]    (Pass the url which you want to scrape)
--> python scraper.py https://www.abt.com/Apple-128GB-Starlight-iPhone-13-Cellular-Phone-ML953LLA6163D/p/168479.html
+> python scraper.py https://www.abt.com/Apple-128GB-Starlight-iPhone-13-Cellular-Phone-ML953LLA6163D/p/168479.html
 
 
 output will be stored in output folder in example.json -> file location name : output/example.json

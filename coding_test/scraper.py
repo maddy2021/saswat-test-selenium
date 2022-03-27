@@ -16,8 +16,6 @@ import constants as CONSTANTS
 
 dirname, filename = os.path.split(os.path.abspath(__file__))
 OUTPUT_PATH = os.path.join(dirname,"output")
-
-
 # url = "https://www.abt.com/Apple-128GB-Starlight-iPhone-13-Cellular-Phone-ML953LLA6163D/p/168479.html"
 
 def get_product_name(browser: WebDriver,json_data):
@@ -110,7 +108,6 @@ def get_all_images(browser:WebDriver):
         print("Not able to find gallary of images of products")
         return images
 
-
 def get_short_desc(browser:WebDriver):
     short_desc = ""
     try:
@@ -119,8 +116,6 @@ def get_short_desc(browser:WebDriver):
     except:
         print("Not able find description")
         return short_desc
-
-    
 
 def get_price_currency(json_data):
     price = ""
@@ -134,8 +129,7 @@ def get_price_currency(json_data):
         return price,currency
     except:
         print('Not able to find price or currency')
-        return price,currency
-    
+        return price,currency   
 
 def get_varients(browser:WebDriver):
     varients = []
@@ -175,8 +169,7 @@ def get_buyer_reviews(browser:WebDriver,buyer_rating):
     except:
         print("Not able to find buyer reviews")
         return [buyer_review]
-
-        
+     
 def scrape_abt_data(browser:WebDriver,url):
     browser.driver.get(url)
     html = browser.driver.find_element(by=By.TAG_NAME,value='html')

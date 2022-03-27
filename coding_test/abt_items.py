@@ -1,6 +1,5 @@
 from datetime import datetime
 
-
 class AbtItems():
     def __init__(self, url,status=None, 
                     lang="en-us", brand="", title="", asin="", buybox_message="", categories=[], image_url="", 
